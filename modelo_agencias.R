@@ -15,7 +15,7 @@ rm(list=ls())
 
 # fijamos el directorio
 
-setwd("/Users/luis/Downloads/proyecto_agencias")
+setwd("~/Downloads/proyecto_agencias")
 
 #####################################################################################
 #             PREPARACIÓN DE LOS DATOS                                              #
